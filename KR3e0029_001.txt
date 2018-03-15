@@ -6,7 +6,10 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
 #+PROPERTY: FILE SB03n0124-001重修政和證類本草-卷第一.
+# SB1_0376-090.png
+# page missing
 <pb:KR3e0029_SBCK_001-1a>¶
+# SB1_0376-091.png
 矣或疑其間所載生出郡縣有後漢地名者以為似張仲景¶
 華佗輩所為是又不然也淮南子云神農甞百草之滋味一¶
 日而七十毒由是醫方興焉蓋上世未著文字師學相傳謂¶
