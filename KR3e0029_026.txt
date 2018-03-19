@@ -6,7 +6,10 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 26
 #+PROPERTY: FILE SB03n0124-026重修政和證類本草-卷第二十六.
+# SB1_0386-168.png
+# page missing
 <pb:KR3e0029_SBCK_026-1a>¶
+# SB1_0386-169.png
 甖子粟(今/附)¶
 　　　一十一種陳藏器餘¶
 　師草實　寒食飰　菵米¶
